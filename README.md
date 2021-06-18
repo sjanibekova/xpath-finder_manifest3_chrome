@@ -1,5 +1,7 @@
 # xPath Finder
+# Original project is git@github.com:trembacz/xpath-finder.git 
 
+# Made sum changes to move Manifestv3
 Firefox & Chrome plugin to get the elements xPath.
 
 https://addons.mozilla.org/addon/xpath_finder/
